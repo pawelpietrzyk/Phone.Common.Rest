@@ -1,0 +1,4 @@
+C:\Repo\Common.Rest\Bin\Debug\Common.Rest.dll
+C:\Repo\Common.Rest\Bin\Debug\Common.Rest.pdb
+C:\Repo\Common.Rest\obj\Debug\Common.Rest.dll
+C:\Repo\Common.Rest\obj\Debug\Common.Rest.pdb
